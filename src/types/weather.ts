@@ -1,3 +1,5 @@
+// the interfaces ensure that the data structures remain consitent throughout the application
+
 export interface WeatherData {
     name: string;
     main: {
